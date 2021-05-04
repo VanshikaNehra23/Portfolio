@@ -278,7 +278,7 @@ section .title::after{
 .contact .title::after
 {
     background: #111;
-    content: "What I Provide";
+    content: "Stuff I Know";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
