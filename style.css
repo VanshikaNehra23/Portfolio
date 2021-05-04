@@ -496,7 +496,12 @@ section .title::after{
     width: calc(50% - 30px);
     display: inline-block;
 }
-
+.education .education-content .left .p .list{
+margin-left: 30px;
+}
+.education .education-content .right .p .list{
+    margin-left: 30px;
+    }
 
 /* contact section styling */
 /* .contact .contact-content{
@@ -505,7 +510,7 @@ section .title::after{
 
 .contact{
     background: url("images/bl.jpg");
-    background-size: 1550px 500px;
+    background-size: 1250px 600px;
     
 }
 .contact .title::after{
